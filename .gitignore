@@ -3,3 +3,6 @@
 *.kv.压实中
 qigraph
 qigraph-服务
+
+# 注册中心装下来的依赖（qi.lock 入库，装出来的内容不入库）
+qi_packages/
